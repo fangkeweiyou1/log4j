@@ -1,0 +1,3 @@
+include ':commonui'
+include ':app'
+rootProject.name = "JetinnoJitLog"
